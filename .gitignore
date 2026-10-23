@@ -1,0 +1,13 @@
+# Compiled executable
+/frog
+
+# Object files
+*.O
+
+# Build directories
+build/
+bin/
+
+# Debugging files
+core
+core.*
